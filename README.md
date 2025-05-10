@@ -90,3 +90,19 @@ project-root/
 
 ---
 
+**Requirements**
+
+* Python 3.7 or higher
+* pandas
+* numpy
+* scikit-learn
+* matplotlib
+* joblib
+
+---
+
+**Acknowledgments**
+
+* **Dataset Name**: Greenhouse Plant Growth
+* **Dataset Author**: Adil Shamim
+* **Dataset Source**: [https://www.kaggle.com/datasets/adilshamim8/greenhouse-plant-growth-metrics](https://www.kaggle.com/datasets/adilshamim8/greenhouse-plant-growth-metrics)
